@@ -1,0 +1,94 @@
+[
+  {
+    "Diesel": {
+      "Value": "2.7078"
+    },
+    "Benzyl": {
+      "Value": "2.1816"
+    },
+    "Co2": {
+      "Value": "1"
+    },
+    "LPG": {
+      "Value": "3.1106"
+    },
+    "Electric": {
+      "Value": "0.4999"
+    },
+    "R22": {
+      "Value": "1760"
+    },
+    "R32": {
+      "Value": "677"
+    },
+    "R410a": {
+      "Value": "1924"
+    },
+    "R410b": {
+      "Value": "782"
+    },
+    "A4": {
+      "Value": "2.102"
+    },
+    "ABS": {
+      "Value": "4.1597"
+    },
+    "CorrugatedPaper": {
+      "Value": "1.6184"
+    },
+    "HDPE": {
+      "Value": "6.7071"
+    },
+    "LDPE": {
+      "Value": "2.6258"
+    },
+    "Nitrogen": {
+      "Value": "0.497"
+    },
+    "PET": {
+      "Value": "2.8854"
+    },
+    "PP": {
+      "Value": "1.8814"
+    },
+    "PVC": {
+      "Value": "2.1331"
+    },
+    "R134a": {
+      "Value": "1300"
+    },
+    "R22Refrigerant": {
+      "Value": "75.786"
+    },
+    "R407c": {
+      "Value": "1624"
+    },
+    "R600a": {
+      "Value": "3"
+    },
+    "RubberWood": {
+      "Value": "0.093"
+    },
+    "Silicone": {
+      "Value": "2.8649"
+    },
+    "Steel": {
+      "Value": "2.7073"
+    },
+    "Aluminium": {
+      "Value": "3.2231"
+    },
+    "Brass": {
+      "Value": "2.4528"
+    },
+    "Copper": {
+      "Value": "3.37"
+    },
+    "PEFoam": {
+      "Value": "2.1"
+    },
+    "Stainless": {
+      "Value": "3.33"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 1,
+    "Name": "Diesel",
+    "Description": "Diesel is a liquid fuel used in diesel engines. Diesel engines are more efficient and cheaper to run than gasoline engines. They also produce less carbon dioxide than gasoline engines. Diesel engines are used in cars, trucks, trains, boats, and farm and construction equipment. Diesel fuel is also used in diesel engine generators to generate electricity.",
+    "Unit": "Litre",
+    "Value": "2.7078",
+    "Category": "Fuel"
+  },
+  {
+    "Id": 2,
+    "Name": "Benzin",
+    "Description": "Benzin is a liquid fuel used in gasoline engines. Gasoline engines are less efficient and more expensive to run than diesel engines. They also produce more carbon dioxide than diesel engines. Gasoline engines are used in cars, trucks, trains, boats, and farm and construction equipment. Gasoline fuel is also used in gasoline engine generators to generate electricity.",
+    "Unit": "Litre",
+    "Value": "2.1816",
+    "Category": "Fuel"
+  },
+  {
+    "Id": 3,
+    "Name": "Co2",
+    "Description": "Carbon dioxide is a colorless, odorless gas that is produced when fossil fuels are burned. It is a greenhouse gas that contributes to global warming. Carbon dioxide is also produced by animals and plants during respiration. Carbon dioxide is used in the food and beverage industry to make carbonated drinks. It is also used in the chemical industry to make plastics, fertilizers, and other products.",
+    "Unit": "Kilogram",
+    "Value": "1",
+    "Category": "Co2"
+  },
+  {
+    "Id": 4,
+    "Name": "LPG",
+    "Description": "LPG is a liquid fuel used in LPG engines. LPG engines are more efficient and cheaper to run than gasoline engines. They also produce less carbon dioxide than gasoline engines. LPG engines are used in cars, trucks, trains, boats, and farm and construction equipment. LPG fuel is also used in LPG engine generators to generate electricity.",
+    "Unit": "Litre",
+    "Value": "3.1106",
+    "Category": "Fuel"
+  },
+  {
+    "Id": 5,
+    "Name": "Electricity",
+    "Description": "Electricity is a form of energy that is produced by the movement of electrons. It is used to power lights, appliances, and other devices. Electricity is produced by burning fossil fuels, nuclear power, and renewable sources such as wind and solar power.",
+    "Unit": "Kilowatt hour",
+    "Value": "0.0005",
+    "Category": "Electricity"
+  },
+  {
+    "Id": 6,
+    "Name": "R22",
+    "Description": "R22 is a refrigerant used in air conditioners and refrigerators. It is a greenhouse gas that contributes to global warming. R22 is also used in the chemical industry to make plastics, fertilizers, and other products.",
+    "Unit": "Kilogram",
+    "Value": "1760",
+    "Category": "Refrigerant"
+  },
+  {
+    "Id": 7,
+    "Name": "R32",
+    "Description": "R32 is a refrigerant used in air conditioners and refrigerators. It is a greenhouse gas that contributes to global warming. R32 is also used in the chemical industry to make plastics, fertilizers, and other products.",
+    "Unit": "Kilogram",
+    "Value": "677",
+    "Category": "Refrigerant"
+  },
+  {
+    "Id": 8,
+    "Name": "R410a",
+    "Description": "R410a is a refrigerant used in air conditioners and refrigerators. It is a greenhouse gas that contributes to global warming. R410a is also used in the chemical industry to make plastics, fertilizers, and other products.",
+    "Unit": "Kilogram",
+    "Value": "1924",
+    "Category": "Refrigerant"
+  },
+  {
+    "Id": 9,
+    "Name": "R410b",
+    "Description": "R410b is a refrigerant used in air conditioners and refrigerators. It is a greenhouse gas that contributes to global warming. R410b is also used in the chemical industry to make plastics, fertilizers, and other products.",
+    "Unit": "Kilogram",
+    "Value": "782",
+    "Category": "Refrigerant"
+  },
+  {
+    "Id": 10,
+    "Name": "A4",
+    "Description": "A4 is a paper size that is used in most countries. It is the standard size for printing documents and is used in most printers and photocopiers. A4 paper is also used in the chemical industry to make plastics, fertilizers, and other products.",
+    "Unit": "Kilogram",
+    "Value": "2.102",
+    "Category": "Paper"
+  }
+]
